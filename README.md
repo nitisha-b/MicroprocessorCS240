@@ -43,5 +43,5 @@ Built a 16-bit HERA (Haverford Educational RISC Architecture) Microprocessor as 
  
 ## Walkthrough/ Demo: 
 
-<img src= "http://g.recordit.co/4NoozTjP25.gif" width=500 alt="Demo of the project">
+<img src= "http://g.recordit.co/4NoozTjP25.gif" width=600 alt="Demo of the project">
 
