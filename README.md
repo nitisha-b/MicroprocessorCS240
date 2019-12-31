@@ -2,6 +2,8 @@
 
 Built a 16-bit HERA (Haverford Educational RISC Architecture) Microprocessor as a class project using Logisim. It performs a number of logical, arithmetic, flag, branching and memory operations. It sets 5 flags: sign, zero, overflow, carry and carry-block. 
 
+## Operations: 
+
 ### Logical Operations: 
   SET, AND, OR, XOR, LSL (Logical Shift Left), LSR (Logical Shift Right) 
 
@@ -30,8 +32,8 @@ Built a 16-bit HERA (Haverford Educational RISC Architecture) Microprocessor as 
   BG(b): Branch if signed result >0 <br> 
   BULE(b): Branch if unsigned result 60 <br> 
   BUG(b): Branch if unsigned result >0 <br> 
-  BZ(b): Branch if zero/if equal <br> 
-  BNZ(b): Branch if not zero/not equal <br> 
+  BZ(b): Branch if zero <br> 
+  BNZ(b): Branch if not zero <br> 
   BC(b): Branch if carry/unsigned result >0 <br> 
   BNC(b): Branch if not carry/unsigned result <0 <br> 
   BS(b): Branch if sign (negative) <br> 
@@ -39,3 +41,7 @@ Built a 16-bit HERA (Haverford Educational RISC Architecture) Microprocessor as 
   BV(b): Branch if overflow <br> 
   BNV(b): Branch if not overflow <br> 
  
+## Walkthrough/ Demo: 
+
+<img src= "https://recordit.co/4NoozTjP25" width=500 alt="Demo of the game">
+
