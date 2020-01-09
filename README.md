@@ -1,6 +1,6 @@
 # Microprocessor
 
-Built a 16-bit HERA (Haverford Educational RISC Architecture) Microprocessor as a class project using Logisim. It performs a number of logical, arithmetic, flag, branching and memory operations. It sets 5 flags: sign, zero, overflow, carry and carry-block. 
+A 16-bit HERA (Haverford Educational RISC Architecture) Microprocessor as a class project built using Logisim. It performs a number of logical, arithmetic, flag, branching and memory operations. It sets 5 flags: sign, zero, overflow, carry and carry-block. 
 
 ## Operations: 
 
